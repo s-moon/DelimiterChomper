@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelimiterChomper", "DelimiterChomper\DelimiterChomper.csproj", "{A18823A0-71FF-4A7F-B306-EB21D26EF748}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelimiterChomper.Tests", "DelimiterChomper.Tests\DelimiterChomper.Tests.csproj", "{B6FEBEFB-611C-466A-938A-17E2F36F9230}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A18823A0-71FF-4A7F-B306-EB21D26EF748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A18823A0-71FF-4A7F-B306-EB21D26EF748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A18823A0-71FF-4A7F-B306-EB21D26EF748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A18823A0-71FF-4A7F-B306-EB21D26EF748}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6FEBEFB-611C-466A-938A-17E2F36F9230}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6FEBEFB-611C-466A-938A-17E2F36F9230}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6FEBEFB-611C-466A-938A-17E2F36F9230}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6FEBEFB-611C-466A-938A-17E2F36F9230}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
